@@ -7,7 +7,7 @@ AI-powered portfolio analysis platform built with Dash and Groq. Enter any stock
 
 ## Live Demo
 
-[**View the live dashboard**](YOUR_ECS_URL_HERE)
+[**View the live dashboard**](https://po-3022f907fabc41c8a459bc77a2400712.ecs.us-east-1.on.aws/)
 
 ## Features
 
