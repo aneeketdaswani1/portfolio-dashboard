@@ -1,0 +1,10 @@
+dash
+dash-bootstrap-components
+plotly
+pandas
+numpy
+yfinance
+requests
+beautifulsoup4
+langchain-groq
+python-dotenv
